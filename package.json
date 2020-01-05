@@ -1,0 +1,25 @@
+{
+  "name": "docker-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gandryeanb/docker-express.git"
+  },
+  "keywords": ["express", "docker", "example", "node-js"],
+  "author": "Gusti Andryean b",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gandryeanb/docker-express/issues"
+  },
+  "homepage": "https://github.com/Gandryeanb/docker-express#readme",
+  "dependencies": {
+    "cuid": "^2.1.8",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
